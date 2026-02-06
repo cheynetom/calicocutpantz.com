@@ -3,76 +3,63 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    title: Calico Cut Pants
+    subtitle: 'The only place you can get pants that look like they have a piss stain on them.'
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      It's not piss. It's got nothing to do with piss. It's just the style.
+      But you gotta give. This site is completely user funded.
     actions:
       - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        label: Give Now
+        url: '#sold-out'
         size: large
         variant: contained
         color: primary
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
-        color: primary
     image:
       type: Image
-      url: /images/hero.svg
-      altText: Hero section image
+      url: /images/pants.svg
+      altText: Calico Cut Pants
   - type: CardsSection
-    title: Cards Section Component
-    subtitle: Section subtitle here
+    title: Our Collection
+    subtitle: 'They are in high demand. Rick is underwater on this.'
     items:
       - type: Card
-        title: First Card Title
+        title: The Trapeze
         image:
           type: Image
-          url: /images/nextjs.svg
-          altText: First item image
+          url: /images/pants.svg
+          altText: The Trapeze
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          A subtle design for the everyday man. You can wear this to a meeting and no one will know.
         actions:
           - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            label: Add to Cart
+            url: '#sold-out'
+            variant: contained
       - type: Card
-        title: Second Card Title
+        title: The 4-Second Splash
         image:
           type: Image
-          url: /images/mui-5.svg
-          altText: Second item image
+          url: /images/pants.svg
+          altText: The 4-Second Splash
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Perfect for when you didn't shake quite enough. It's fashionable, it's cool.
         actions:
           - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            label: Add to Cart
+            url: '#sold-out'
+            variant: contained
       - type: Card
-        title: Third Card Title
+        title: The Full Release
         image:
           type: Image
-          url: /images/ts.svg
-          altText: Third item image
+          url: /images/pants.svg
+          altText: The Full Release
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          A bold statement. For the man who has nothing to hide. Even if he did, you wouldn't know.
         actions:
           - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            label: Add to Cart
+            url: '#sold-out'
+            variant: contained
 ---
